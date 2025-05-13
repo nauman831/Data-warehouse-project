@@ -1,0 +1,6 @@
+scripts/silver/cust_az12_cleaning.sql
+scripts/silver/loc_a101_cleaning.sql
+scripts/silver/px_cat_g1v2_cleaning.sql
+scripts/silver/cust_info_cleaning.sql
+scripts/silver/prd_info_cleaning.sql
+scripts/silver/sls_details_cleaning.sql
